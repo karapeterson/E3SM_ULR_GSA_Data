@@ -1,0 +1,10 @@
+! Users should add all user specific namelist changes below in the form of 
+! namelist_var = new_namelist_value 
+
+cldfrc_dp1 = 0.0872291036 
+clubb_c1 = 1.919359794
+clubb_c8 = 4.256554201
+clubb_gamma_coef = 0.1769985242
+zmconv_ke = 5.0e-6
+so4_sz_thresh_icenuc = 5.0e-8
+clubb_c14 = 1.06
